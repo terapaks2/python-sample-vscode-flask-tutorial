@@ -43,4 +43,4 @@ steps:
   - script: |
       pip install pytest pytest-azurepipelines
       pytest
-    displayName: 'Run pytest
+    displayName: 'Run pytest'
